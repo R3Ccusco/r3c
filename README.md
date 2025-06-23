@@ -1,12 +1,17 @@
 <hr>
 <div align="center">
-<img src="https://github.com/R3Ccusco/escolar/blob/main/rec.jpg" width="400">
+<img src="https://github.com/R3Ccusco/r3c/blob/main/logorec.jpg" width="400">
 </div>
 
 
 <hr>
 <div align="center">
-<img src="https://github.com/R3Ccusco/escolar/blob/main/angularlogo.svg" width="400">
+<img src="https://github.com/R3Ccusco/r3c/blob/main/logoangular.svg" width="400">
+</div>
+
+<hr>
+<div align="center">
+<img src="https://github.com/R3Ccusco/r3c/blob/main/logotrelllo.svg" width="400">
 </div>
 
 <hr>
