@@ -18,7 +18,15 @@
     <div align="center">
         <a href="https://trello.com/"
             target="_blank">
-            <img src="https://github.com/R3Ccusco/r3c/blob/main/logotrelllo.svg" width="400">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/logotrello.svg" width="400">
+        </a>
+    </div>
+
+<hr>
+    <div align="center">
+        <a href="https://trello.com/"
+            target="_blank">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/logomiro.svg" width="400">
         </a>
     </div>
 
