@@ -31,6 +31,14 @@
     </div>
 
 <hr>
+    <div align="center">
+        <a href="https://balsamiq.com/"
+            target="_blank">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/logobalsamiq.svg" width="400">
+        </a>
+    </div>
+
+<hr>
 <h1 align="center">
 Sistemas de Información Web
 </h1>
