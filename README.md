@@ -2,7 +2,23 @@
     <div align="center">
         <a href="https://github.com/R3Ccusco"
             target="_blank">
-            <img src="https://github.com/R3Ccusco/r3c/blob/main/logorec.jpg" width="400">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/logorec.svg" width="400">
+        </a>
+    </div>
+
+<hr>
+    <div align="center">
+        <a href="https://github.com/R3Ccusco"
+            target="_blank">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/mateoinsicnia.svg" width="400">
+        </a>
+    </div>
+
+<hr>
+    <div align="center">
+        <a href="https://github.com/R3Ccusco"
+            target="_blank">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/mateologo.svg" width="400">
         </a>
     </div>
 
