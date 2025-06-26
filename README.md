@@ -2,7 +2,7 @@
     <div align="center">
         <a href="https://github.com/R3Ccusco"
             target="_blank">
-            <img src="https://github.com/R3Ccusco/r3c/blob/main/logorec.svg" width="400">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/logoreccusco.svg" width="400">
         </a>
     </div>
 
@@ -10,7 +10,7 @@
     <div align="center">
         <a href="https://github.com/R3Ccusco"
             target="_blank">
-            <img src="https://github.com/R3Ccusco/r3c/blob/main/mateoinsicnia.svg" width="400">
+            <img src="https://github.com/R3Ccusco/r3c/blob/main/mateoinsignia.svg" width="400">
         </a>
     </div>
 
